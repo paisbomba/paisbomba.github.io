@@ -23,6 +23,8 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-relative-links
+
 
 # Custom vars
 version:            2019-1101a
