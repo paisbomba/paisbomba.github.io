@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            País Bomba
 tagline:          El estado somos nosotros
 description:      "«Quien no conoce a su enemigo, está condenado a convertirse en su esclavo.» —@LocoLocalista"
-url:              https://github.com/acataleptico/paisbomba
+url:              https://github.com/paisbomba/paisbomba.github.io
 baseurl:          /
                   # the optional subpath of your site, e.g. "/my-jekyll-site/"
                   # This will apply to all pages in your Jekyll site.
@@ -30,7 +30,7 @@ plugins:
 version:            2019-1101a
 
 github:
-  repo:             https://github.com/acataleptico/paisbomba
+  repo:             https://github.com/paisbomba/paisbomba.github.io
 
 # My Config
 
