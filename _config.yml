@@ -40,3 +40,7 @@ kramdown:
     # "### My Funky Heading"
     # "{: #funky }"
     #link: The funky text is [described below](#funky)
+
+relative_links:
+  enabled:     true
+  collections: false

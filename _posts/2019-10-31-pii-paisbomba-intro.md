@@ -19,7 +19,7 @@ quiste, esa bomba activada que tenemos hace cientos de años no va
 a ser rápido.
 
 Les voy a mencionar entonces 4 conceptos importantes para cortar 
-esos cables malos y antojarlos a seguir aprendiéndolos conmigo: [Via Negativa](#intro-via-negativa), [duda](#intro-duda), [localismo](#intro-localismo), [Jugarse La Piel](#intro-Jugarse-la-piel).
+esos cables malos y antojarlos a seguir aprendiéndolos conmigo: [Via Negativa](#intro-via-negativa), [duda](#intro-duda), [localismo](#intro-localismo), [Jugarse La Piel](#intro-jugarse-la-piel).
 <br><br>
 ###  Primero: Via Negativa, aprender descartando falsedades
 {: #intro-via-negativa }

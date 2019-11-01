@@ -1,5 +1,5 @@
 ---
-permalink: cables
+permalink: /cables
 layout: page
 title: Cables a cortar
 ---
