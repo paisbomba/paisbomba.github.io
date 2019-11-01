@@ -1,0 +1,40 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Setup
+title:            País Bomba
+tagline:          El estado somos nosotros
+description:      "«Quien no conoce a su enemigo, está condenado a convertirse en su esclavo.» —@LocoLocalista"
+url:              https://github.com/acataleptico/paisbomba
+baseurl:          /
+                  # the optional subpath of your site, e.g. "/my-jekyll-site/"
+                  # This will apply to all pages in your Jekyll site.
+
+author:
+  name:           Acataleptico
+  url:            https://twitter.com/acataleptico
+
+paginate:         5
+# paginate_path:    '/page:num'
+                    # Or '/my-jekyll-site/page:num' if you want to move your index pages
+                    
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+
+# Custom vars
+version:            2019-1101a
+
+github:
+  repo:             https://github.com/acataleptico/paisbomba
+
+# My Config
+
+kramdown:
+    auto_ids: true
+    #With this enabled each heading gets an id ref based on the heading text.
+    # "### My Funky Heading"
+    # "{: #funky }"
+    #link: The funky text is [described below](#funky)
