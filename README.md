@@ -1,2 +1,2 @@
 # País Bomba
-ver https://acataleptico.github.io/paisbomba
+ver https://paisbomba.github.io

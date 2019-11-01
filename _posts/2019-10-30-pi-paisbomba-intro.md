@@ -1,5 +1,5 @@
 ---
-permalink: intro-parte-i
+permalink: intro-parte-i.html
 layout: post
 title: I - El país somos nosotros
 ---

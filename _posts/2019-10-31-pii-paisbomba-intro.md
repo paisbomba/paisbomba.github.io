@@ -1,10 +1,10 @@
 ---
-permalink: intro-parte-ii
+permalink: intro-parte-ii.html
 layout: post
 title: II - Los Alicates
 ---
 
-![Qué Cable](/public/images/cables-wonderlane-cc0.jpg)
+![Cables](/public/images/cables-wonderlane-CC0.jpg)
 Imagen: Cuál Cable?. Fuente: [wonderlane, CC 0](https://flickr.com/wonderlane){:target="_blank"}
 
 Esta introducción está dividida en tres partes:<br>

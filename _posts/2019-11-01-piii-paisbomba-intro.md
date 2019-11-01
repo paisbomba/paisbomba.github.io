@@ -1,5 +1,5 @@
 ---
-permalink: intro-parte-iii
+permalink: intro-parte-iii.html
 layout: post
 title: III - Valentía para desactivar bombas
 ---
