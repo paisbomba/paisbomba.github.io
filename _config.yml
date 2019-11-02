@@ -7,7 +7,7 @@ title:            País Bomba
 tagline:          El estado somos nosotros
 description:      "«Quien no conoce a su enemigo, está condenado a convertirse en su esclavo.» —@LocoLocalista"
 url:              https://paisbomba.github.io
-baseurl:          ""
+baseurl:          "/"
                   # the optional subpath of your site, e.g. "/my-jekyll-site/"
                   # This will apply to all pages in your Jekyll site.
 
