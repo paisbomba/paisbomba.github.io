@@ -23,7 +23,6 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-relative-links
 
 
 # Custom vars
@@ -40,7 +39,3 @@ kramdown:
     # "### My Funky Heading"
     # "{: #funky }"
     #link: The funky text is [described below](#funky)
-
-relative_links:
-  enabled:     false
-  collections: false
