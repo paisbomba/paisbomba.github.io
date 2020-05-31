@@ -103,7 +103,7 @@ adoptemos un abstracto, una sola cultura "colombiana".
 Somos seres del entorno diario, inmediato; de éticas vecinales, 
 nos es más efectivo ayudar a un vecino, que donar para alguien 
 desconocido al otro lado del mundo. No podemos negar que la 
-supervivencia de nuestro círculo familiar es más importante la 
+supervivencia de nuestro círculo familiar es más importante que la 
 nuestra, dado el caso. Igual con la supervivencia de la 
 comunidad, de la sociedad, del hombre en la tierra, de la vida en 
 el universo. Porqué entonces insistir en el monoculturalismo? Les 
@@ -196,7 +196,7 @@ Pensar que sí, es una ilusión peligrosa que tenemos que cortar.
 Debemos progresar eliminando lo que se sabe que es dañino, Via 
 Negativa.
 <br><br>
-###  Cuarto: Jugarse la piel, que el tiempo decida qué fue mejor
+###  Cuarto: Jugarse la piel, que el tiempo expulse a los peores
 {: #intro-jugarse-la-piel }
 
 Ahora, ya sabemos que no siempre es posible administrar todo lo 

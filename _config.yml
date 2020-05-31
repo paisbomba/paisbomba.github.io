@@ -26,7 +26,7 @@ plugins:
 
 
 # Custom vars
-version:            2019-1101a
+version:            2020-3105a
 
 github:
   repo:             https://github.com/paisbomba/paisbomba.github.io

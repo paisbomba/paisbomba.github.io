@@ -47,7 +47,7 @@ Recordemos además que
 no tenemos ni idea que no sabemos.*
 
 Muchas decisiones que tomamos en la vida son apuestas, como 
-cortar un cable de una bomba con los ojos cerrados. Solo un 
+cortarle cables a una bomba con los ojos cerrados. Solo un 
 idiota diría que es posible conocer las consecuencias a futuro de 
 una decisión que afecta un sistema complejo. Y quien le crea está 
 en peligro por iluso.

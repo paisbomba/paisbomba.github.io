@@ -30,7 +30,7 @@ Resumo la idea general en dos frases.
 Uno,
 <br><br>
 
-### El estado y el amiguismo son dos cosas distintas.
+### El estado no son esos amiguistas que lo capturaron
 
 La cleptocracia o el gobierno de los ladrones, no es el estado; 
 el estado somos nosotros, cada individuo, cada familia, cada 
@@ -55,7 +55,7 @@ Y Dos,
 <br><br>
 
 
-### Un país a prueba de malos gobernantes
+### Un país a prueba de malos gobernantes es posible
 
 Ningún gobernante arreglará un país tan complejo, pero un país 
 organizado puede poner a marchar a sus gobernantes. Necesitamos 
@@ -71,8 +71,9 @@ ocultas en nuestras libertades.
 
 **En dos palabras**
 
-*Ética* y *Localismo*. Lo que buscamos es acordar que cada agente de la sociedad actúe de acuerdo a una ética, y que nos organicemos de acuerdo al 
-localismo.
+*Ética* y *Localismo*. Lo que buscamos es acordar que cada agente 
+de la sociedad actúe de acuerdo a una ética, y que nos organicemos 
+de acuerdo al localismo.
 
 Con **ética**, me refiero a tener unos principios de comportamiento 
 para cada unidad de la sociedad: la responsabilidad, la 
@@ -115,7 +116,7 @@ mostraba como un predicador doctrinario. En realidad el
 falibilismo y el escepticismo nos salvan de eso, pero igual voy a 
 decir esto una sola vez: La gran mayoría de estas ideas son 
 copiadas descaradamente del Incerto, y unas pocas de mi vida en 
-las montañas de la Cordillera Oriental. No reclamo nada original 
+las montañas al final de la Cordillera Central. No reclamo nada original 
 en las ideas centrales, que son suyas. Creo que si alguien 
 imparcial lo ha leído y ha vivido en Colombia, verá que País 
 Bomba se deduce naturalmente de esas ideas. Lo que no le quita 
